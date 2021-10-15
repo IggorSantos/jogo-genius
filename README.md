@@ -5,6 +5,8 @@
 
 Jogo Genius feito durante o bootcamp da Eduzz na Digital Innovation One
 
+[Jogue através deste link](https://iggorsantos.github.io/jogo-genius/).
+
 ## Desafio
 Reproduzir o famoso jogo Genius
 
