@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/author-Igor%20Santos-red">
+
 # Jogo Genius
 <img src="/images/logo-genius.png" >
 
